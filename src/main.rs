@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let day = 1;
+    println!("Day {day} completed.");
 }

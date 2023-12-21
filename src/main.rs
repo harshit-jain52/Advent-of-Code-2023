@@ -1,4 +1,4 @@
 fn main() {
-    let day = 2;
+    let day = 3;
     println!("Day {day} completed.");
 }
